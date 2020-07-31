@@ -1,4 +1,5 @@
-# Hi there, I'm [Arjun][website] 👋
+![Banner](https://raw.githubusercontent.com/arjun921/arjun921/master/Arjun%20Sunil%20Github%20banner.gif)
+## Hi there! 👋
 
 You can find me as [@arjun921][google] pretty much everywhere online!
 
