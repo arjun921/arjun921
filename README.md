@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/arjun921/arjun921/master/Arjun%20Sunil%20Github%20banner.gif)
+[![Banner](https://raw.githubusercontent.com/arjun921/arjun921/master/github-banner-arjun.gif)](website)
 ## Hi there! 👋
 
 You can find me as [@arjun921][google] pretty much everywhere online!
