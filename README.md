@@ -1,5 +1,5 @@
 # Hi there, I'm [Arjun][website] 👋
-You can find me as [@arjun921][google] pretty much everywhere I have an account!
+You can find me as [@arjun921][google] pretty much everywhere online!
 
 - 🔭 I’m currently working on building high fault tolerance deployment systems for deploying ML/DL models on Kubernetes
 - 🌱 I’m currently re-learning Deep Learning (its been a while since I wrote a DNN)
