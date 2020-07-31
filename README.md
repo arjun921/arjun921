@@ -1,4 +1,5 @@
-# Hi there, I'm AJ - aka [Arjun Sunil][website] 👋
+# Hi there, I'm [Arjun][website] 👋
+You can find me as [@arjun921][google] pretty much everywhere I have an account!
 
 - 🔭 I’m currently working on building high fault tolerance deployment systems for deploying ML/DL models on Kubernetes
 - 🌱 I’m currently re-learning Deep Learning (its been a while since I wrote a DNN)
@@ -11,7 +12,8 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- 
+
+<br />
 
 # Latest Blog Posts ✍🏾
 <!-- BLOG-POST-LIST:START -->
@@ -27,7 +29,7 @@
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun921&count_private=true&show_icons=true&theme=tokyonight)
 
 
-
+[google]: https://www.google.com/search?q=arjun921+-%22instagram%22+-%22bollywood%22++-%22Ahoy!%22+-%22Alhambra%22
 [website]: https://arjunsunil.com
 [twitter]: https://twitter.com/arjun921
 [linkedin]: https://linkedin.com/in/arjun921
