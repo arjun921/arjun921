@@ -26,10 +26,12 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 ### Connect with me:
 
 [<img align="left" alt="arjunsunil.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="arjun921 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="arjun921@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mail]
+[<img align="left" alt="arjun921 | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/google.svg" />][google]
 [<img align="left" alt="arjun921 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arjun921 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="arjun921 | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
+[<img align="left" alt="arjun921 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arjun921 | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 [<img align="left" alt="arjun921 | Angel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angellist.svg" />][angel]
 [<img align="left" alt="arjun921 | XDA" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xdadevelopers.svg" />][xda]
