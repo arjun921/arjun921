@@ -3,7 +3,7 @@
 
 You can find me as [@arjun921][google] pretty much everywhere online!
 
-- 🔭 I’m currently working on building high fault tolerance deployment systems for deploying ML/DL models on Kubernetes
+- 🔭 I’m currently building highly cost efficient serving and deployment systems for DL models on Kubernetes
 - 🌱 I’m currently re-learning Deep Learning (its been a while since I wrote a DNN)
 - 💬 Ask me about Machine Learning, Kubernetes, CI, Scalability, etc. 
 - 📫 How to reach me: arjun921@gmail.com or https://arjunsunil.com
@@ -21,8 +21,34 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 <!-- BLOG-POST-LIST:END -->
 
 ---
+### Stack:
 
-![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=arjun921&count_private=true&show_icons=true&theme=tokyonight)
+<p>
+  <a><img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=arjun921&count_private=true&show_icons=true&hide_border=true"></a>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sentryio/sentryio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/lastpass/lastpass-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/zapier/zapier-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+</p>
+
+---
 
 ### Connect with me:
 
