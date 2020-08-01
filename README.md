@@ -31,6 +31,7 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 [<img align="left" alt="arjun921 | Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/google.svg" />][google]
 [<img align="left" alt="arjun921 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arjun921 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="arjun921 | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 [<img align="left" alt="arjun921 | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />][hackerearth]
 [<img align="left" alt="arjun921 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arjun921 | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
@@ -47,6 +48,7 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 [mail]: mailto:arjun921@gmail.com
 [medium]: https://medium.com/@arjun921
 [linkedin]: https://www.linkedin.com/in/arjun921/
+[hackerrank]: https://www.hackerrank.com/arjun921
 [hackerearth]: https://www.hackerearth.com/@arjun921
 [spotify]: https://open.spotify.com/user/arjun921
 [twitter]: https://twitter.com/arjun921
