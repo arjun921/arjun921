@@ -13,11 +13,11 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 
 ### Latest Blog Posts ✍🏾
 <!-- BLOG-POST-LIST:START -->
+- [Opensourcing my brain](https://arjunsunil.com/posts/opensourcing-my-brain/)
 - [FastAPI: Simple File Upload](https://arjunsunil.com/posts/simple-fastapi-file-upload/)
 - [Being a Master Procrastinator](https://arjunsunil.com/posts/being-a-master-procrastinator/)
 - [IFTTT Hacks](https://arjunsunil.com/posts/ifttt-hacks/)
 - [Success - Reducing ML Training Costs](https://arjunsunil.com/posts/reducing-ml-training-costs/)
-- [How we Reduced our ML Training Costs by 78%!!](https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf?source=rss-a2dcfee1b1c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
