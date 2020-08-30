@@ -13,11 +13,11 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 
 ### Latest Blog Posts ✍🏾
 <!-- BLOG-POST-LIST:START -->
-- [Opensourcing my brain](https://arjunsunil.com/posts/opensourcing-my-brain/)
-- [FastAPI: Simple File Upload](https://arjunsunil.com/posts/simple-fastapi-file-upload/)
-- [Being a Master Procrastinator](https://arjunsunil.com/posts/being-a-master-procrastinator/)
-- [IFTTT Hacks](https://arjunsunil.com/posts/ifttt-hacks/)
-- [Success - Reducing ML Training Costs](https://arjunsunil.com/posts/reducing-ml-training-costs/)
+- [How we Reduced our ML Training Costs by 78%!!](https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf?source=rss-a2dcfee1b1c1------2)
+- [How to study less, study smart](https://medium.com/@arjun921/how-to-study-less-study-smart-566c1dac076b?source=rss-a2dcfee1b1c1------2)
+- [Flashcards: I am a Front-End developer and I want to host my website on a Kubernetes cluster](https://medium.com/@arjun921/flashcards-i-am-a-front-end-developer-and-i-want-to-host-my-website-on-a-kubernetes-cluster-e5f823ac5706?source=rss-a2dcfee1b1c1------2)
+- [How I setup autoscaling on Kubernetes and you can too!](https://medium.com/@arjun921/how-i-setup-autoscaling-on-kubernetes-and-you-can-too-470a5fec067f?source=rss-a2dcfee1b1c1------2)
+- [Jio Internet Balance Scraper](https://medium.com/@arjun921/jio-internet-balance-scraper-43b1ee48b15?source=rss-a2dcfee1b1c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
