@@ -13,11 +13,11 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 
 ### Latest Blog Posts ✍🏾
 <!-- BLOG-POST-LIST:START -->
+- [Tensorflow: Predict from Image URL](https://arjunsunil.com/posts/tensorflow-predict-from-image-url/)
 - [Opensourcing my brain](https://arjunsunil.com/posts/opensourcing-my-brain/)
 - [FastAPI: Simple File Upload](https://arjunsunil.com/posts/simple-fastapi-file-upload/)
 - [Being a Master Procrastinator](https://arjunsunil.com/posts/being-a-master-procrastinator/)
 - [IFTTT Hacks](https://arjunsunil.com/posts/ifttt-hacks/)
-- [Success - Reducing ML Training Costs](https://arjunsunil.com/posts/reducing-ml-training-costs/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
