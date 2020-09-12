@@ -2,7 +2,7 @@
 
 You can find me as [@arjun921][google] pretty much everywhere online!
 
-- I wear many hats @ [Fynd](https://fynd.com) (Deep Learning and MLOps Engineer)
+- I wear many hats @ [Fynd](https://fynd.com) (MLOps, Full-stack and Deep Learning Engineer)
 - I'm revisiting Deep Learning (it'd been a while since I wrote a neural net)
 - I'm an Ex-Maintainer of LegendROM for the [Redmi Note 4 (mido)](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-legendrom-t3613547)
 - I am a polygot with preference for py
