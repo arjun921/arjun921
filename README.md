@@ -1,17 +1,21 @@
-[![Banner](https://raw.githubusercontent.com/arjun921/arjun921/master/github-banner-arjun.gif)][website]
 ## Hi there! 👋
 
 You can find me as [@arjun921][google] pretty much everywhere online!
 
-- 🔭 I’m currently building highly cost efficient serving and deployment systems for DL models on Kubernetes
-- 🌱 I’m currently re-learning Deep Learning (its been a while since I wrote a DNN)
-- 💬 Ask me about Machine Learning, Kubernetes, CI, Scalability, etc. 
-- 📫 How to reach me: arjun921@gmail.com or https://arjunsunil.com
-- ⚡ Fun fact: I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
+- I have worked on all things Kubernetes @ [Fynd](https://fynd.com)
+  - I'm currently building a no frills, end-to-end Deep Learning classification pipeline with easy deploys
+- I'm revisiting Deep Learning (its been a while since I wrote a neural net)
+- I'm an Ex-Maintainer of LegendROM for the [Redmi Note 4 (mido)](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-legendrom-t3613547)
+- You can reach me at: arjun921@gmail.com
+- To know more about me: https://arjunsunil.com/about/
+
+- Fun fact: I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
 
 ---
 
 ### Latest Blog Posts ✍🏾
+
+I try my best post a story every month:
 <!-- BLOG-POST-LIST:START -->
 - [Tensorflow: Predict from Image URL](https://arjunsunil.com/posts/tensorflow-predict-from-image-url/)
 - [Opensourcing my brain](https://arjunsunil.com/posts/opensourcing-my-brain/)
