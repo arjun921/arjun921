@@ -17,11 +17,11 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 
 I try my best post a story every month:
 <!-- BLOG-POST-LIST:START -->
-- [Flashcards | Tensorflow: Predict from Image URL](https://medium.com/@arjun921/flashcards-tensorflow-predict-from-image-url-c37766c45cd6?source=rss-a2dcfee1b1c1------2)
 - [Tensorflow: Predict from Image URL](https://arjunsunil.com/posts/tensorflow-predict-from-image-url/)
 - [Opensourcing my brain](https://arjunsunil.com/posts/opensourcing-my-brain/)
 - [FastAPI: Simple File Upload](https://arjunsunil.com/posts/simple-fastapi-file-upload/)
 - [Being a Master Procrastinator](https://arjunsunil.com/posts/being-a-master-procrastinator/)
+- [IFTTT Hacks](https://arjunsunil.com/posts/ifttt-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
