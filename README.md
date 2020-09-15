@@ -8,7 +8,7 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 - I am a polygot with preference for py
 - You can ask me about all things Kubernetes, Deep Learning and deploying models at scale
 - You can reach me at: arjun921@gmail.com
-- To know more about me: https://arjunsunil.com/about/
+- To know more about me: https://arjunsunil.com/
 - Fun fact: I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
 
 ---
