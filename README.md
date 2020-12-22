@@ -12,11 +12,21 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 - To know more about me: https://arjunsunil.com/
 - Fun fact: I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
 
+Here are a few things you might find interesting:
+
+📜 (Advice)[https://blog.arjunsunil.com/advice/]: One-liner snippets of knowledge that I have collected over time.
+⛑ (Work/Resume)[http://bit.do/arjuncv]: Past workplaces and experiences
+📷 (Photography)[https://blog.arjunsunil.com/photography/]: Looking through the lens
+🕔 (Uses)[https://blog.arjunsunil.com/uses/]: All the things I use, around the clock
+📚 (Coursework)[https://blog.arjunsunil.com/coursework/]: A list of courses I have picked up online
+👨‍💻 (Source Code Visualization)[https://sourcerer.io/arjun921]: A timeline of all the things I've gotten my hands dirty with (sourcerer link, site was taken down -- no longer has valid https)
+
 ---
 
 ### Latest Blog Posts ✍🏾
 
-I try my best post a story every month:
+I try my best publish one story every month:
+My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
 - [Kindle Oasis (10th Gen) review](https://medium.com/@arjun921/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
 - [Yes, you got that right.](https://medium.com/@arjun921/yes-you-got-that-right-a8e64418719f?source=rss-a2dcfee1b1c1------2)
@@ -24,6 +34,7 @@ I try my best post a story every month:
 - [How to study less, study smart](https://medium.com/@arjun921/how-to-study-less-study-smart-566c1dac076b?source=rss-a2dcfee1b1c1------2)
 - [Flashcards: I am a Front-End developer and I want to host my website on a Kubernetes cluster](https://medium.com/@arjun921/flashcards-i-am-a-front-end-developer-and-i-want-to-host-my-website-on-a-kubernetes-cluster-e5f823ac5706?source=rss-a2dcfee1b1c1------2)
 <!-- BLOG-POST-LIST:END -->
+
 
 ---
 ### Stack:
