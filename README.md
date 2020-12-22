@@ -18,11 +18,11 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 
 I try my best post a story every month:
 <!-- BLOG-POST-LIST:START -->
-- [Kindle Oasis (10th Gen) review](https://medium.com/@arjun921/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
-- [Yes, you got that right.](https://medium.com/@arjun921/yes-you-got-that-right-a8e64418719f?source=rss-a2dcfee1b1c1------2)
 - [Tensorflow: Predict from Image URL](https://notebook.arjunsunil.com/posts/tensorflow-predict-from-image-url/)
 - [Opensourcing my brain](https://notebook.arjunsunil.com/posts/opensourcing-my-brain/)
 - [FastAPI: Simple File Upload](https://notebook.arjunsunil.com/posts/simple-fastapi-file-upload/)
+- [Being a Master Procrastinator](https://notebook.arjunsunil.com/posts/being-a-master-procrastinator/)
+- [IFTTT Hacks](https://notebook.arjunsunil.com/posts/ifttt-hacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
