@@ -12,7 +12,9 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 - To know more about me: https://arjunsunil.com/
 
 Here are a few things you might find interesting:
+
 I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
+
 📜 [Advice](https://blog.arjunsunil.com/advice/): One-liner snippets of knowledge that I have collected over time.
 
 ⛑ [Work/Resume](http://bit.do/arjuncv): Past workplaces and experiences
