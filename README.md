@@ -10,16 +10,20 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 - You can ask me about all things Kubernetes, Deep Learning and deploying models at scale
 - You can reach me at: arjun921@gmail.com
 - To know more about me: https://arjunsunil.com/
-- Fun fact: I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
 
 Here are a few things you might find interesting:
+I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
+📜 [Advice](https://blog.arjunsunil.com/advice/): One-liner snippets of knowledge that I have collected over time.
 
-📜 (Advice)[https://blog.arjunsunil.com/advice/]: One-liner snippets of knowledge that I have collected over time.
-⛑ (Work/Resume)[http://bit.do/arjuncv]: Past workplaces and experiences
-📷 (Photography)[https://blog.arjunsunil.com/photography/]: Looking through the lens
-🕔 (Uses)[https://blog.arjunsunil.com/uses/]: All the things I use, around the clock
-📚 (Coursework)[https://blog.arjunsunil.com/coursework/]: A list of courses I have picked up online
-👨‍💻 (Source Code Visualization)[https://sourcerer.io/arjun921]: A timeline of all the things I've gotten my hands dirty with (sourcerer link, site was taken down -- no longer has valid https)
+⛑ [Work/Resume](http://bit.do/arjuncv): Past workplaces and experiences
+
+📷 [Photography](https://blog.arjunsunil.com/photography/): Looking through the lens
+
+🕔 [Uses](https://blog.arjunsunil.com/uses/): All the things I use, around the clock
+
+📚 [Coursework](https://blog.arjunsunil.com/coursework/): A list of courses I have picked up online
+
+👨‍💻 [Source Code Visualization](https://sourcerer.io/arjun921): A timeline of all the things I've gotten my hands dirty with (sourcerer link, site was taken down -- no longer has valid https)
 
 ---
 
