@@ -21,6 +21,7 @@ Here are a few things you might find interesting:
 - 👨‍💻 [Source Code Visualization](https://sourcerer.io/arjun921): A timeline of all the things I've gotten my hands dirty with (sourcerer link, site was taken down -- no longer has valid https)
 
 Fun fact: I might be a SDE by profession, but I'm also passionate about Flying Machines 🛩️ , Space travel 🛰, Scuba diving 🤿 and Cooking 🥞
+
 ---
 
 ### Latest Blog Posts ✍🏾
