@@ -32,9 +32,9 @@ My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](
 <!-- BLOG-POST-LIST:START -->
 - [I had a burnout and took a break](https://medium.com/@arjun921/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
 - [Kindle Oasis (10th Gen) review](https://medium.com/@arjun921/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
-- [Yes, you got that right.](https://medium.com/@arjun921/yes-you-got-that-right-a8e64418719f?source=rss-a2dcfee1b1c1------2)
 - [Tensorflow: Predict from Image URL](https://blog.arjunsunil.com/posts/tensorflow-predict-from-image-url/)
 - [Opensourcing my brain](https://blog.arjunsunil.com/posts/opensourcing-my-brain/)
+- [FastAPI: Simple File Upload](https://blog.arjunsunil.com/posts/simple-fastapi-file-upload/)
 <!-- BLOG-POST-LIST:END -->
 
 
