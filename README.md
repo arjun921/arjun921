@@ -33,8 +33,8 @@ My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](
 - [I had a burnout and took a break](https://medium.com/@arjun921/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
 - [Kindle Oasis (10th Gen) review](https://medium.com/@arjun921/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
 - [Yes, you got that right.](https://medium.com/@arjun921/yes-you-got-that-right-a8e64418719f?source=rss-a2dcfee1b1c1------2)
-- [How we Reduced our ML Training Costs by 78%!!](https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf?source=rss-a2dcfee1b1c1------2)
-- [How to study less, study smart](https://medium.com/@arjun921/how-to-study-less-study-smart-566c1dac076b?source=rss-a2dcfee1b1c1------2)
+- [Tensorflow: Predict from Image URL](https://blog.arjunsunil.com/posts/tensorflow-predict-from-image-url/)
+- [Opensourcing my brain](https://blog.arjunsunil.com/posts/opensourcing-my-brain/)
 <!-- BLOG-POST-LIST:END -->
 
 
