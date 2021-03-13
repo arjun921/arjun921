@@ -1,4 +1,6 @@
-## Hi there! 👋
+
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 
 You can find me as [@arjun921][google] pretty much everywhere online!
 
@@ -10,13 +12,14 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 - You can ask me about all things Kubernetes, Deep Learning and deploying models at scale
 - You can reach me at my [contact form](https://form.typeform.com/to/q3yeeO0a)
 - To know more about me: https://arjunsunil.com/
-- P.S. I'm mostly self taught across all the things I've built/worked on 😅 -- (So if anything new pops up, I'll figure anything out)
+
+P.S. I'm mostly self taught across all the things I've built/worked on 😅 -- (So if anything new pops up, I'll figure anything out)
 
 Here are a few things you might find interesting:
 
 - 📜 [Advice](https://blog.arjunsunil.com/advice/): One-liner snippets of knowledge that I have collected over time.
-- ⛑ [Work/Resume](http://bit.do/arjuncv): Past workplaces and experiences
-- 📷 [Photography](https://blog.arjunsunil.com/photography/): Looking through the lens
+- ⛑ [Work/Resume](https://docs.google.com/document/d/1G4DHaqXR8xJhzQgkJ-E8EIRs_kNJzW6E3HTmXeXnfgk/edit): Past workplaces and experiences
+- 📷 [Photography](https://photos.app.goo.gl/QYBRFtEGFfD87wPq8): Looking through the lens
 - 🕔 [Uses](https://blog.arjunsunil.com/uses/): All the things I use, around the clock
 - 📚 [Coursework](https://blog.arjunsunil.com/coursework/): A list of courses I have picked up online
 - 👨‍💻 [Source Code Visualization](https://sourcerer.io/arjun921): A timeline of all the things I've gotten my hands dirty with (sourcerer link, site was taken down -- no longer has valid https)
