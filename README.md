@@ -10,7 +10,7 @@ You can find me as [@arjun921][google] pretty much everywhere online!
 - Polygot with preference for python
 - I have teeny-tiny contributions [EKSCTL](https://github.com/weaveworks/eksctl/releases/tag/0.29.0), [Fluent-Bit](https://github.com/fluent/fluent-bit/pull/1869),  I'm more than open to collaborating in OSS!!!
 - You can ask me about all things Kubernetes, Deep Learning and deploying models at scale
-- You can reach me at my [contact form](https://form.typeform.com/to/q3yeeO0a)
+- You can contact me [here](https://form.typeform.com/to/q3yeeO0a)
 - To know more about me: https://arjunsunil.com/
 
 P.S. I'm mostly self taught across all the things I've built/worked on 😅 -- (So if anything new pops up, I'll figure anything out)
