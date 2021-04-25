@@ -4,8 +4,8 @@
 
 You can find me as [@arjun921][google] pretty much everywhere online!
 
-- I wear many hats @ [Fynd](https://fynd.com) (MLOps, Full-stack and Deep Learning Engineer)
-- I'm currently working on improving my Data Structure and Algorithms to write better code -- [check progress](https://github.com/arjun921/Python-TIL/tree/master/algorithms)
+- I wear many hats at Work (Research, Applied ML, Devops and Full-stack)
+- I'm currently building [Tensorflow-E2E](https://github.com/arjun921/tensorflow-e2e) (on weekends)
 - I'm an Ex-Maintainer of LegendROM for the [Redmi Note 4 (mido)](https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-legendrom-t3613547)
 - Polygot with preference for python
 - I have teeny-tiny contributions [EKSCTL](https://github.com/weaveworks/eksctl/releases/tag/0.29.0), [Fluent-Bit](https://github.com/fluent/fluent-bit/pull/1869),  I'm more than open to collaborating in OSS!!!
