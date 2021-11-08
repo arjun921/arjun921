@@ -37,7 +37,7 @@ My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](
 - [How to become a software engineer](https://blog.arjunsunil.com/posts/how-to-become-a-software-engineer/)
 - [We fixed the “Color” extraction problem for E-Commerce](https://blog.gofynd.com/we-fixed-the-color-extraction-problem-for-e-commerce-a8762edb312e?source=rss-a2dcfee1b1c1------2)
 - [I had a burnout and took a break](https://arjun921.medium.com/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
-- [Kindle Oasis (10th Gen) review](https://arjun921.medium.com/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
+- [Kindle Oasis &lpar;10th Gen&rpar; review](https://arjun921.medium.com/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
