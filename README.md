@@ -33,11 +33,11 @@ Fun fact: I might be a SDE by profession, but I'm also passionate about Flying M
 I try my best publish one story every month:
 My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
-- [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
 - [Building an affordable IOT connected home in India](https://blog.arjunsunil.com/posts/building-an-affordable-iot-connected-home-in-india/)
 - [How to become a software engineer](https://blog.arjunsunil.com/posts/how-to-become-a-software-engineer/)
-- [We fixed the “Color” extraction problem for E-Commerce](https://blog.gofynd.com/we-fixed-the-color-extraction-problem-for-e-commerce-a8762edb312e?source=rss-a2dcfee1b1c1------2)
-- [I had a burnout and took a break](https://arjun921.medium.com/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
+- [Tensorflow: Predict from Image URL](https://blog.arjunsunil.com/posts/tensorflow-predict-from-image-url/)
+- [Opensourcing my brain](https://blog.arjunsunil.com/posts/opensourcing-my-brain/)
+- [FastAPI: Simple File Upload](https://blog.arjunsunil.com/posts/simple-fastapi-file-upload/)
 <!-- BLOG-POST-LIST:END -->
 
 
