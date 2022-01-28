@@ -34,10 +34,10 @@ I try my best publish one story every month:
 My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
 - [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
+- [Building an affordable IOT connected home in India](https://blog.arjunsunil.com/posts/building-an-affordable-iot-connected-home-in-india/)
+- [How to become a software engineer](https://blog.arjunsunil.com/posts/how-to-become-a-software-engineer/)
 - [We fixed the “Color” extraction problem for E-Commerce](https://blog.gofynd.com/we-fixed-the-color-extraction-problem-for-e-commerce-a8762edb312e?source=rss-a2dcfee1b1c1------2)
 - [I had a burnout and took a break](https://arjun921.medium.com/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
-- [Kindle Oasis &lpar;10th Gen&rpar; review](https://arjun921.medium.com/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
-- [How we Reduced our ML Training Costs by 78%!!](https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf?source=rss-a2dcfee1b1c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
