@@ -30,8 +30,7 @@ Fun fact: I might be a SDE by profession, but I'm also passionate about Flying M
 
 ### Latest Blog Posts ✍🏾
 
-I try my best publish one story every month:
-My archive is live at [Medium](https://arjun921.medium.com) and [Personal Blog](https://blog.arjunsunil.com)
+I try to write one story every month on [Medium](https://arjun921.medium.com) and my [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
 - [How to check Confluent Kafka Lag with Python](https://blog.arjunsunil.com/posts/how-to-check-confluent-kafka-lag-with-python/)
 - [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
