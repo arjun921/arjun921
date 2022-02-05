@@ -32,7 +32,7 @@ Fun fact: I might be a SDE by profession, but I'm also passionate about Flying M
 
 I try to write one story every month on [Medium](https://arjun921.medium.com) and my [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
-- [How to check Confluent Kafka Lag with Python](https://blog.arjunsunil.com/posts/how-to-check-confluent-kafka-lag-with-python/)
+- [Confluent Kafka Python: Get Lag](https://blog.arjunsunil.com/posts/confluent-kafka-python-get-lag/)
 - [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
 - [Building an affordable IOT connected home in India](https://blog.arjunsunil.com/posts/building-an-affordable-iot-connected-home-in-india/)
 - [How to become a software engineer](https://blog.arjunsunil.com/posts/how-to-become-a-software-engineer/)
