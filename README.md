@@ -32,11 +32,11 @@ Fun fact: I might be a SDE by profession, but I'm also passionate about Flying M
 
 I try to write one story every month on [Medium](https://arjun921.medium.com) and my [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
+- [Pancakes Recipe](https://blog.arjunsunil.com/posts/pancakes/)
+- [Confluent Kafka Python: Get Lag](https://blog.arjunsunil.com/posts/confluent-kafka-python-get-lag/)
 - [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
-- [We fixed the “Color” extraction problem for E-Commerce](https://blog.gofynd.com/we-fixed-the-color-extraction-problem-for-e-commerce-a8762edb312e?source=rss-a2dcfee1b1c1------2)
-- [I had a burnout and took a break](https://arjun921.medium.com/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
-- [Kindle Oasis &lpar;10th Gen&rpar; review](https://arjun921.medium.com/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
-- [How we Reduced our ML Training Costs by 78%!!](https://blog.gofynd.com/how-we-reduced-our-ml-training-costs-by-78-a33805cb00cf?source=rss-a2dcfee1b1c1------2)
+- [Building an affordable IOT connected home in India](https://blog.arjunsunil.com/posts/building-an-affordable-iot-connected-home-in-india/)
+- [How to become a software engineer](https://blog.arjunsunil.com/posts/how-to-become-a-software-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 
