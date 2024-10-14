@@ -34,9 +34,9 @@ I try to write one story every month on [Medium](https://arjun921.medium.com) an
 <!-- BLOG-POST-LIST:START -->
 - [Pancakes Recipe](https://blog.arjunsunil.com/posts/pancakes/)
 - [Confluent Kafka Python: Get Lag](https://blog.arjunsunil.com/posts/confluent-kafka-python-get-lag/)
-- [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
 - [Building an affordable IOT connected home in India](https://blog.arjunsunil.com/posts/building-an-affordable-iot-connected-home-in-india/)
 - [How to become a software engineer](https://blog.arjunsunil.com/posts/how-to-become-a-software-engineer/)
+- [Tensorflow: Predict from Image URL](https://blog.arjunsunil.com/posts/tensorflow-predict-from-image-url/)
 <!-- BLOG-POST-LIST:END -->
 
 
