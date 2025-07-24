@@ -34,10 +34,10 @@ Fun fact: I might be a SDE by profession, but I'm also passionate about Flying M
 I try to write one story every month on [Medium](https://arjun921.medium.com) and my [Personal Blog](https://blog.arjunsunil.com)
 <!-- BLOG-POST-LIST:START -->
 - [Reviving My Camera: How Shapr3D and 3D Printing Brought It Back to Life](https://arjun921.medium.com/reviving-my-camera-how-shapr3d-and-3d-printing-brought-it-back-to-life-7db65c0b6488?source=rss-a2dcfee1b1c1------2)
-- [Pancakes Recipe](https://blog.arjunsunil.com/posts/pancakes/)
-- [Confluent Kafka Python: Get Lag](https://blog.arjunsunil.com/posts/confluent-kafka-python-get-lag/)
 - [How to fix the Damn Opensea 403 Error in Python](https://arjun921.medium.com/how-to-fix-the-damn-opensea-403-error-in-python-c753ebbc8f5f?source=rss-a2dcfee1b1c1------2)
-- [Building an affordable IOT connected home in India](https://blog.arjunsunil.com/posts/building-an-affordable-iot-connected-home-in-india/)
+- [We fixed the “Color” extraction problem for E-Commerce](https://blog.gofynd.com/we-fixed-the-color-extraction-problem-for-e-commerce-a8762edb312e?source=rss-a2dcfee1b1c1------2)
+- [I had a burnout and took a break](https://arjun921.medium.com/i-had-a-burnout-and-took-a-break-cd0828585a6b?source=rss-a2dcfee1b1c1------2)
+- [Kindle Oasis &lpar;10th Gen&rpar; review](https://arjun921.medium.com/kindle-oasis-10th-gen-review-b42a8ee29f03?source=rss-a2dcfee1b1c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
